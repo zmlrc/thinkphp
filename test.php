@@ -1,1 +1,2 @@
 echo phpinfo();
+echo "abcd";
